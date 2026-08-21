@@ -86,4 +86,4 @@ Conference on Artificial Intelligence will be held on September 20, 2026, at 10:
 
 ## Author
 
-Dinesh Verma
+Dinesh Vema
